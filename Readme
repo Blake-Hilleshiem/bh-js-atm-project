@@ -1,0 +1,14 @@
+Project 2: Virtual ATM Machine (OOP Project)
+
+- Build a console app that mimics an atm machine
+- Persistent balance accross the whole app [cruadable [add, remove, null, get]]
+- main menu that routes to other menus
+  - Welcome
+  - 1.  view balance
+  - 2.  withdraw
+  - 3.  deposit
+- redirect back to the main menu
+- Error handling for withdrawals
+- Deposit
+- exit the program via selection
+- print receipt
